@@ -23,7 +23,7 @@ const comments = computed(() =>
 <template>
   <article
     :id="record.id"
-    class="scroll-mt-24 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm transition hover:shadow-md dark:border-slate-700 dark:bg-slate-800/60 sm:p-5"
+    class="scroll-mt-24 rounded-2xl border border-slate-200 bg-white p-4 shadow-xs transition hover:shadow-md dark:border-slate-700 dark:bg-slate-800/60 sm:p-5"
   >
     <header class="flex flex-wrap items-start justify-between gap-2">
       <div class="min-w-0">

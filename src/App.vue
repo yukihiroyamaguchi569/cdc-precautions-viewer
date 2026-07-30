@@ -133,7 +133,7 @@ onMounted(() => {
     </div>
 
     <header
-      class="sticky top-0 z-20 border-b border-slate-200 bg-slate-50/90 backdrop-blur dark:border-slate-800 dark:bg-slate-950/90"
+      class="sticky top-0 z-20 border-b border-slate-200 bg-slate-50/90 backdrop-blur-sm dark:border-slate-800 dark:bg-slate-950/90"
     >
       <div class="mx-auto max-w-3xl px-4 pb-3 pt-4">
         <div class="flex items-center justify-between gap-3">
@@ -175,7 +175,7 @@ onMounted(() => {
                 ? '疾患名・略語で検索（例: MRSA / ノロ / measles / けっかく）'
                 : 'Search disease, alias… (MRSA / norovirus / TB)'
             "
-            class="w-full rounded-xl border border-slate-300 bg-white py-3 pl-10 pr-4 text-base shadow-sm outline-none focus:border-sky-500 focus:ring-2 focus:ring-sky-500/30 dark:border-slate-700 dark:bg-slate-900"
+            class="w-full rounded-xl border border-slate-300 bg-white py-3 pl-10 pr-4 text-base shadow-xs outline-hidden focus:border-sky-500 focus:ring-2 focus:ring-sky-500/30 dark:border-slate-700 dark:bg-slate-900"
           />
         </div>
 
@@ -254,7 +254,7 @@ onMounted(() => {
         {{ data.meta.license }}
       </p>
       <p class="mt-1">
-        Code: MIT · Data: CDC (public domain). Press <kbd class="rounded bg-slate-200 px-1 dark:bg-slate-700">/</kbd> to search.
+        Code: MIT · Data: CDC (public domain). Press <kbd class="rounded-sm bg-slate-200 px-1 dark:bg-slate-700">/</kbd> to search.
       </p>
     </footer>
   </div>
