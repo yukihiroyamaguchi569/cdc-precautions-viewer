@@ -1,0 +1,4453 @@
+{
+  "meta": {
+    "title": "CDC Isolation Precautions — Appendix A",
+    "subtitle": "Type and Duration of Precautions Recommended for Selected Infections and Conditions",
+    "source": "Guideline for Isolation Precautions (2007), CDC",
+    "sourceUrl": "https://www.cdc.gov/infection-control/hcp/isolation-precautions/appendix-a-type-duration.html",
+    "webVersionDate": "2025-02-02",
+    "license": "U.S. Government work (public domain). N95® is a certification mark of HHS.",
+    "generatedAt": "2026-07-30",
+    "count": 255
+  },
+  "records": [
+    {
+      "id": "abscess-draining-major",
+      "name": "Abscess",
+      "sub": "Draining, major",
+      "nameJa": "膿瘍（大量排膿）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Until drainage stops or can be contained by dressing.",
+      "commentsJa": "排膿が止まる、または被覆材で制御できるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "abscess-draining-minor-or-limited",
+      "name": "Abscess",
+      "sub": "Draining, minor or limited",
+      "nameJa": "膿瘍（軽微・限局）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "If dressing covers and contains drainage.",
+      "commentsJa": "被覆材で排膿を覆い制御できる場合。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "acquired-human-immunodeficiency-syndrome-hiv",
+      "name": "Acquired human immunodeficiency syndrome (HIV)",
+      "sub": null,
+      "nameJa": "後天性免疫不全症候群（HIV）",
+      "aliases": [
+        "HIV",
+        "AIDS",
+        "エイズ",
+        "えいず"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Postexposure chemoprophylaxis for some blood exposures.",
+      "commentsJa": "一部の血液曝露では曝露後化学予防を行う。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "actinomycosis",
+      "name": "Actinomycosis",
+      "sub": null,
+      "nameJa": "放線菌症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "adenovirus-infection",
+      "name": "Adenovirus infection",
+      "sub": null,
+      "nameJa": "アデノウイルス感染症",
+      "aliases": [
+        "アデノ",
+        "あでの"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis / Conjunctivitis / Pneumonia"
+    },
+    {
+      "id": "amebiasis",
+      "name": "Amebiasis",
+      "sub": null,
+      "nameJa": "アメーバ症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Person-to-person transmission is rare. Use care when handling diapered infants and mentally challenged persons.",
+      "commentsJa": "ヒト-ヒト感染はまれ。おむつ使用乳児等の取り扱いに注意。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "andes-virus",
+      "name": "Andes virus",
+      "sub": null,
+      "nameJa": "アンデスウイルス",
+      "aliases": [],
+      "precautions": [],
+      "duration": "See comments",
+      "durationJa": "個別判断",
+      "comments": "Patient Placement: AIIR. PPE: Gown, gloves, eye protection, N95® respirator or higher. Duration determined case-by-case with local/state/federal health authorities.",
+      "commentsJa": "陰圧個室(AIIR)。ガウン・手袋・眼保護・N95以上。期間は保健当局と個別協議。",
+      "updated": "2024-09",
+      "seeAlso": null
+    },
+    {
+      "id": "anthrax",
+      "name": "Anthrax",
+      "sub": null,
+      "nameJa": "炭疽",
+      "aliases": [
+        "たんそ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Infected patients do not generally pose a transmission risk.",
+      "commentsJa": "通常は感染伝播リスクなし。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "anthrax-cutaneous",
+      "name": "Anthrax",
+      "sub": "Cutaneous",
+      "nameJa": "炭疽（皮膚）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Use Contact Precautions if large amount of uncontained drainage. Handwashing with soap and water preferable — alcohol has no sporicidal activity.",
+      "commentsJa": "大量の制御不能な排膿があれば接触予防。芽胞に無効なため石けんと流水で手洗い。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "anthrax-pulmonary",
+      "name": "Anthrax",
+      "sub": "Pulmonary",
+      "nameJa": "炭疽（肺）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "anthrax-environmental-aerosolizable-spores",
+      "name": "Anthrax",
+      "sub": "Environmental (aerosolizable spores)",
+      "nameJa": "炭疽（環境／エアロゾル化芽胞）",
+      "aliases": [],
+      "precautions": [],
+      "duration": "Until environment decontaminated",
+      "durationJa": "環境の除染完了まで",
+      "comments": "Wear respirator (N95 or PAPR) and protective clothing; decontaminate persons with powder on them. Handwashing 30-60s with soap and water or 2% chlorhexidine (alcohol inactive against spores). Postexposure prophylaxis 60 days of antimicrobials + vaccine under IND.",
+      "commentsJa": "N95/PAPR＋防護衣。粉末が付着した人を除染。石けん流水30-60秒。曝露後予防60日＋ワクチン。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "arthropod-borne-viral-encephalitides-and-fevers",
+      "name": "Arthropod-borne viral encephalitides and fevers",
+      "sub": null,
+      "nameJa": "節足動物媒介ウイルス脳炎・熱",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Includes eastern/western/Venezuelan equine encephalomyelitis, St Louis, California encephalitis, West Nile; dengue, Oropouche, yellow fever, Colorado tick fever. Install screens; use DEET repellents and cover extremities.",
+      "commentsJa": "各種ウイルス脳炎・熱。窓戸に網戸、DEET忌避剤、露出防止。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "ascariasis",
+      "name": "Ascariasis",
+      "sub": null,
+      "nameJa": "回虫症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "aspergillosis",
+      "name": "Aspergillosis",
+      "sub": null,
+      "nameJa": "アスペルギルス症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions and Airborne if massive soft tissue infection with copious drainage and repeated irrigations required.",
+      "commentsJa": "大量排膿を伴う広範な軟部組織感染で反復洗浄が必要なら接触＋空気予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "avian-influenza",
+      "name": "Avian influenza",
+      "sub": null,
+      "nameJa": "鳥インフルエンザ",
+      "aliases": [
+        "H5N1",
+        "とりインフル"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Influenza, Avian"
+    },
+    {
+      "id": "babesiosis",
+      "name": "Babesiosis",
+      "sub": null,
+      "nameJa": "バベシア症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person, except rarely by transfusion.",
+      "commentsJa": "輸血によるまれな例外を除きヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "blastomycosis-north-american",
+      "name": "Blastomycosis, North American",
+      "sub": null,
+      "nameJa": "ブラストミセス症（北米）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Cutaneous or pulmonary. Not transmitted from person to person.",
+      "commentsJa": "皮膚・肺。ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "botulism",
+      "name": "Botulism",
+      "sub": null,
+      "nameJa": "ボツリヌス症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "bronchiolitis",
+      "name": "Bronchiolitis",
+      "sub": null,
+      "nameJa": "細気管支炎",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "See Respiratory Infections in infants and young children. Use mask according to Standard Precautions.",
+      "commentsJa": "乳幼児の呼吸器感染参照。標準予防に従いマスク。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "brucellosis",
+      "name": "Brucellosis",
+      "sub": null,
+      "nameJa": "ブルセラ症（波状熱・マルタ熱）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person, except rarely via banked spermatozoa and sexual contact. Provide antimicrobial prophylaxis following laboratory exposure.",
+      "commentsJa": "まれな例外を除きヒト-ヒト感染しない。検査室曝露では抗菌薬予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "campylobacter-gastroenteritis",
+      "name": "Campylobacter gastroenteritis",
+      "sub": null,
+      "nameJa": "カンピロバクター腸炎",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "candidiasis",
+      "name": "Candidiasis",
+      "sub": null,
+      "nameJa": "カンジダ症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "All forms including mucocutaneous.",
+      "commentsJa": "粘膜皮膚型を含む全型。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "cat-scratch-fever",
+      "name": "Cat-scratch fever",
+      "sub": null,
+      "nameJa": "猫ひっかき病",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "cellulitis",
+      "name": "Cellulitis",
+      "sub": null,
+      "nameJa": "蜂窩織炎",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "chancroid",
+      "name": "Chancroid",
+      "sub": null,
+      "nameJa": "軟性下疳",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Transmitted sexually from person to person.",
+      "commentsJa": "性行為感染。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "chickenpox",
+      "name": "Chickenpox",
+      "sub": null,
+      "nameJa": "水痘",
+      "aliases": [
+        "みずぼうそう",
+        "varicella"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Varicella"
+    },
+    {
+      "id": "chlamydia-trachomatis-conjunctivitis",
+      "name": "Chlamydia trachomatis",
+      "sub": "Conjunctivitis",
+      "nameJa": "クラミジア結膜炎",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "chlamydia-trachomatis-genital-lymphogranuloma-venereum",
+      "name": "Chlamydia trachomatis",
+      "sub": "Genital (lymphogranuloma venereum)",
+      "nameJa": "クラミジア性器感染（鼠径リンパ肉芽腫）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "chlamydia-trachomatis-pneumonia-infants-3-mos",
+      "name": "Chlamydia trachomatis",
+      "sub": "Pneumonia (infants ≤3 mos.)",
+      "nameJa": "クラミジア肺炎（生後3か月以下）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "chlamydia-pneumoniae",
+      "name": "Chlamydia pneumoniae",
+      "sub": null,
+      "nameJa": "肺炎クラミジア",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Outbreaks in institutionalized populations reported, rarely.",
+      "commentsJa": "施設集団でのアウトブレイク報告あり（まれ）。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "cholera",
+      "name": "Cholera",
+      "sub": null,
+      "nameJa": "コレラ",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "closed-cavity-infection-open-drain-limited-drainage",
+      "name": "Closed-cavity infection",
+      "sub": "Open drain / limited drainage",
+      "nameJa": "閉鎖腔感染（開放ドレーン・軽度）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions if there is copious uncontained drainage.",
+      "commentsJa": "大量で制御不能な排膿があれば接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "closed-cavity-infection-no-drain-closed-system",
+      "name": "Closed-cavity infection",
+      "sub": "No drain / closed system",
+      "nameJa": "閉鎖腔感染（ドレーンなし・閉鎖式）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "clostridium-botulinum",
+      "name": "Clostridium botulinum",
+      "sub": null,
+      "nameJa": "ボツリヌス菌",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "clostridium-difficile",
+      "name": "Clostridium difficile",
+      "sub": null,
+      "nameJa": "クロストリジオイデス・ディフィシル",
+      "aliases": [
+        "C. diff",
+        "CD",
+        "CDI",
+        "ディフィシル"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "See Gastroenteritis, C. difficile. Handwashing with soap and water; do not share electronic thermometers; hypochlorite for environmental cleaning if transmission continues.",
+      "commentsJa": "アルコール無効のため石けんと流水。電子体温計の共用禁止。伝播継続時は次亜塩素酸で環境清掃。",
+      "updated": "2023-06",
+      "seeAlso": null
+    },
+    {
+      "id": "clostridium-perfringens-food-poisoning",
+      "name": "Clostridium perfringens",
+      "sub": "Food poisoning",
+      "nameJa": "ウェルシュ菌食中毒",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "clostridium-perfringens-gas-gangrene",
+      "name": "Clostridium perfringens",
+      "sub": "Gas gangrene",
+      "nameJa": "ウェルシュ菌ガス壊疽",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Person-to-person transmission rare. Use Contact Precautions if wound drainage is extensive.",
+      "commentsJa": "ヒト-ヒト感染はまれ。創部排膿が広範なら接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "coccidioidomycosis-draining-lesions",
+      "name": "Coccidioidomycosis",
+      "sub": "Draining lesions",
+      "nameJa": "コクシジオイデス症（排膿病変）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted person to person except under extraordinary circumstances.",
+      "commentsJa": "例外的状況を除きヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "coccidioidomycosis-pneumonia",
+      "name": "Coccidioidomycosis",
+      "sub": "Pneumonia",
+      "nameJa": "コクシジオイデス症（肺炎）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted person to person except under extraordinary circumstances.",
+      "commentsJa": "例外的状況を除きヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "colorado-tick-fever",
+      "name": "Colorado tick fever",
+      "sub": null,
+      "nameJa": "コロラドダニ熱",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "congenital-rubella",
+      "name": "Congenital rubella",
+      "sub": null,
+      "nameJa": "先天性風疹",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until 1 yr of age",
+      "durationJa": "生後1歳まで",
+      "comments": "Standard Precautions if nasopharyngeal and urine cultures repeatedly negative after 3 mos. of age.",
+      "commentsJa": "生後3か月以降に咽頭・尿培養が反復陰性なら標準予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "conjunctivitis-acute-bacterial",
+      "name": "Conjunctivitis",
+      "sub": "Acute bacterial",
+      "nameJa": "急性細菌性結膜炎",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "conjunctivitis-acute-viral-acute-hemorrhagic",
+      "name": "Conjunctivitis",
+      "sub": "Acute viral (acute hemorrhagic)",
+      "nameJa": "急性ウイルス性（急性出血性）結膜炎",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Adenovirus most common; enterovirus 70, Coxsackie A24 also. Highly contagious; outbreaks in eye clinics and neonatal settings reported.",
+      "commentsJa": "アデノが最多。極めて伝染性が高く眼科・新生児施設で流行報告。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "creutzfeldt-jakob-disease",
+      "name": "Creutzfeldt-Jakob disease",
+      "sub": null,
+      "nameJa": "クロイツフェルト・ヤコブ病",
+      "aliases": [
+        "CJD",
+        "vCJD",
+        "ヤコブ病",
+        "プリオン"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "CJD, vCJD. Use disposable instruments or special sterilization/disinfection for surfaces contaminated with neural tissue. No special burial procedures.",
+      "commentsJa": "神経組織汚染には使い捨て器具か特別滅菌。特別な埋葬手順は不要。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "cryptococcosis",
+      "name": "Cryptococcosis",
+      "sub": null,
+      "nameJa": "クリプトコッカス症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted person to person except rarely via tissue and corneal transplant.",
+      "commentsJa": "組織・角膜移植によるまれな例外を除きヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "cryptosporidiosis",
+      "name": "Cryptosporidiosis",
+      "sub": null,
+      "nameJa": "クリプトスポリジウム症",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "cysticercosis",
+      "name": "Cysticercosis",
+      "sub": null,
+      "nameJa": "嚢虫症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "cytomegalovirus-infection",
+      "name": "Cytomegalovirus infection",
+      "sub": null,
+      "nameJa": "サイトメガロウイルス感染症",
+      "aliases": [
+        "CMV",
+        "サイトメガロ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Including neonates and immunosuppressed. No additional precautions for pregnant HCWs.",
+      "commentsJa": "新生児・免疫抑制者を含む。妊娠中の医療者に追加予防は不要。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "decubitus-ulcer",
+      "name": "Decubitus ulcer",
+      "sub": null,
+      "nameJa": "褥瘡",
+      "aliases": [
+        "じょくそう"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Pressure Ulcer"
+    },
+    {
+      "id": "dengue-fever",
+      "name": "Dengue fever",
+      "sub": null,
+      "nameJa": "デング熱",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "diphtheria-cutaneous",
+      "name": "Diphtheria",
+      "sub": "Cutaneous",
+      "nameJa": "ジフテリア（皮膚）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until off antimicrobials and culture-negative",
+      "durationJa": "抗菌薬終了かつ培養陰性まで",
+      "comments": "Until 2 cultures taken 24 hours apart negative.",
+      "commentsJa": "24時間あけた2回の培養が陰性になるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "diphtheria-pharyngeal",
+      "name": "Diphtheria",
+      "sub": "Pharyngeal",
+      "nameJa": "ジフテリア（咽頭）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until off antimicrobials and culture-negative",
+      "durationJa": "抗菌薬終了かつ培養陰性まで",
+      "comments": "Until 2 cultures taken 24 hours apart negative.",
+      "commentsJa": "24時間あけた2回の培養が陰性になるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "ebola-virus",
+      "name": "Ebola virus",
+      "sub": null,
+      "nameJa": "エボラウイルス",
+      "aliases": [
+        "エボラ"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Viral Hemorrhagic Fevers"
+    },
+    {
+      "id": "echinococcosis",
+      "name": "Echinococcosis",
+      "sub": null,
+      "nameJa": "エキノコックス症（包虫症）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "endometritis-endomyometritis",
+      "name": "Endometritis (endomyometritis)",
+      "sub": null,
+      "nameJa": "子宮内膜炎",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "enterobiasis-pinworm",
+      "name": "Enterobiasis (pinworm)",
+      "sub": null,
+      "nameJa": "蟯虫症",
+      "aliases": [
+        "pinworm",
+        "ぎょうちゅう"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "enteroviral-infections",
+      "name": "Enteroviral infections",
+      "sub": null,
+      "nameJa": "エンテロウイルス感染症",
+      "aliases": [
+        "コクサッキー",
+        "エコー"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Group A/B Coxsackie and Echoviruses (excludes polio). Use Contact Precautions for diapered or incontinent children for duration of illness and to control outbreaks.",
+      "commentsJa": "おむつ使用・失禁の小児では罹病期間中および流行制御に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "epiglottitis-haemophilus-influenzae-type-b",
+      "name": "Epiglottitis (Haemophilus influenzae type b)",
+      "sub": null,
+      "nameJa": "喉頭蓋炎（Hib）",
+      "aliases": [
+        "Hib",
+        "こうとうがいえん"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "See specific disease agents for epiglottitis due to other etiologies.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "epstein-barr-virus-infection",
+      "name": "Epstein-Barr virus infection",
+      "sub": null,
+      "nameJa": "EBウイルス感染症（伝染性単核症）",
+      "aliases": [
+        "EBV",
+        "EBウイルス",
+        "単核症"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Including infectious mononucleosis.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "erythema-infectiosum",
+      "name": "Erythema infectiosum",
+      "sub": null,
+      "nameJa": "伝染性紅斑（リンゴ病）",
+      "aliases": [
+        "りんご病",
+        "リンゴ病"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Parvovirus B19"
+    },
+    {
+      "id": "escherichia-coli-gastroenteritis",
+      "name": "Escherichia coli gastroenteritis",
+      "sub": null,
+      "nameJa": "大腸菌腸炎",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "food-poisoning-botulism",
+      "name": "Food poisoning",
+      "sub": "Botulism",
+      "nameJa": "食中毒（ボツリヌス）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "food-poisoning-c-perfringens-or-welchii",
+      "name": "Food poisoning",
+      "sub": "C. perfringens or welchii",
+      "nameJa": "食中毒（ウェルシュ菌）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "food-poisoning-staphylococcal",
+      "name": "Food poisoning",
+      "sub": "Staphylococcal",
+      "nameJa": "食中毒（ブドウ球菌）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "furunculosis-staphylococcal",
+      "name": "Furunculosis, staphylococcal",
+      "sub": null,
+      "nameJa": "ブドウ球菌性癤（せつ）症",
+      "aliases": [
+        "MRSA",
+        "せつ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact if drainage not controlled. Follow institutional policies if MRSA.",
+      "commentsJa": "排膿が制御できなければ接触予防。MRSAは施設方針に従う。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "furunculosis-staphylococcal-infants-and-young-children",
+      "name": "Furunculosis, staphylococcal",
+      "sub": "Infants and young children",
+      "nameJa": "ブドウ球菌性癤症（乳幼児）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "With wound lesions, until wounds stop draining.",
+      "commentsJa": "創病変がある場合、排膿が止まるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gangrene-gas-gangrene",
+      "name": "Gangrene (gas gangrene)",
+      "sub": null,
+      "nameJa": "壊疽（ガス壊疽）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis",
+      "name": "Gastroenteritis",
+      "sub": null,
+      "nameJa": "胃腸炎（総論）",
+      "aliases": [
+        "gastro",
+        "いちょうえん",
+        "腸炎"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Use Contact Precautions for diapered or incontinent persons for the duration of illness or to control institutional outbreaks (applies to the agents below).",
+      "commentsJa": "おむつ使用・失禁者では罹病期間中および流行制御に接触予防（下記各病原体に適用）。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-adenovirus",
+      "name": "Gastroenteritis",
+      "sub": "Adenovirus",
+      "nameJa": "胃腸炎（アデノウイルス）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-campylobacter-species",
+      "name": "Gastroenteritis",
+      "sub": "Campylobacter species",
+      "nameJa": "胃腸炎（カンピロバクター）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-cholera-vibrio-cholerae",
+      "name": "Gastroenteritis",
+      "sub": "Cholera (Vibrio cholerae)",
+      "nameJa": "胃腸炎（コレラ）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-c-difficile",
+      "name": "Gastroenteritis",
+      "sub": "C. difficile",
+      "nameJa": "胃腸炎（C. difficile）",
+      "aliases": [
+        "C. diff",
+        "CDI",
+        "ディフィシル"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Discontinue antibiotics if appropriate. Do not share electronic thermometers; ensure environmental cleaning; hypochlorite may be required if transmission continues. Handwashing with soap and water preferred (alcohol not sporicidal).",
+      "commentsJa": "可能なら抗菌薬中止。電子体温計を共用しない。環境清掃徹底、伝播継続時は次亜塩素酸。石けんと流水で手洗い（アルコールは芽胞に無効）。",
+      "updated": "2023-06",
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-cryptosporidium-species",
+      "name": "Gastroenteritis",
+      "sub": "Cryptosporidium species",
+      "nameJa": "胃腸炎（クリプトスポリジウム）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-e-coli-o157-h7-and-shiga-toxin-producing",
+      "name": "Gastroenteritis",
+      "sub": "E. coli O157:H7 and Shiga toxin-producing",
+      "nameJa": "胃腸炎（腸管出血性大腸菌O157等）",
+      "aliases": [
+        "O157",
+        "EHEC"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-e-coli-other-species",
+      "name": "Gastroenteritis",
+      "sub": "E. coli, other species",
+      "nameJa": "胃腸炎（その他の大腸菌）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-giardia-lamblia",
+      "name": "Gastroenteritis",
+      "sub": "Giardia lamblia",
+      "nameJa": "胃腸炎（ジアルジア）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-noroviruses",
+      "name": "Gastroenteritis",
+      "sub": "Noroviruses",
+      "nameJa": "胃腸炎（ノロウイルス）",
+      "aliases": [
+        "noro",
+        "ノロ",
+        "norovirus"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Min. 48h after resolution of symptoms",
+      "durationJa": "症状消失後最低48時間",
+      "comments": "Contact Precautions for a minimum of 48 hours after resolution of symptoms or to control outbreaks. Masks for those cleaning heavily contaminated areas (virus can aerosolize). Hypochlorite may be required; alcohol less active. Type of Precaution updated Standard → Contact + Standard.",
+      "commentsJa": "症状消失後最低48時間は接触予防。糞便・吐物はエアロゾル化しうるためマスク。次亜塩素酸推奨、アルコールは効果が弱い。2019年に標準→接触＋標準へ改訂。",
+      "updated": "2019-04",
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-rotavirus",
+      "name": "Gastroenteritis",
+      "sub": "Rotavirus",
+      "nameJa": "胃腸炎（ロタウイルス）",
+      "aliases": [
+        "rota",
+        "ロタ"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Ensure environmental cleaning and frequent removal of soiled diapers. Prolonged shedding may occur in both immunocompetent and immunocompromised children and the elderly.",
+      "commentsJa": "環境清掃と汚染おむつの頻回交換。小児・高齢者では排出が遷延しうる。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-salmonella-species-incl-s-typhi",
+      "name": "Gastroenteritis",
+      "sub": "Salmonella species (incl. S. typhi)",
+      "nameJa": "胃腸炎（サルモネラ／腸チフス）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-shigella-species-bacillary-dysentery",
+      "name": "Gastroenteritis",
+      "sub": "Shigella species (bacillary dysentery)",
+      "nameJa": "胃腸炎（赤痢菌）",
+      "aliases": [
+        "せきり"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-vibrio-parahaemolyticus",
+      "name": "Gastroenteritis",
+      "sub": "Vibrio parahaemolyticus",
+      "nameJa": "胃腸炎（腸炎ビブリオ）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-viral-if-not-covered-elsewhere",
+      "name": "Gastroenteritis",
+      "sub": "Viral (if not covered elsewhere)",
+      "nameJa": "胃腸炎（ウイルス性・他項目外）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gastroenteritis-yersinia-enterocolitica",
+      "name": "Gastroenteritis",
+      "sub": "Yersinia enterocolitica",
+      "nameJa": "胃腸炎（エルシニア）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent persons for duration of illness or to control outbreaks.",
+      "commentsJa": "おむつ・失禁者では罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "german-measles",
+      "name": "German measles",
+      "sub": null,
+      "nameJa": "風疹（ドイツ麻疹）",
+      "aliases": [
+        "ふうしん",
+        "rubella"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Rubella / Congenital Rubella"
+    },
+    {
+      "id": "giardiasis",
+      "name": "Giardiasis",
+      "sub": null,
+      "nameJa": "ジアルジア症",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "gonococcal-ophthalmia-neonatorum",
+      "name": "Gonococcal ophthalmia neonatorum",
+      "sub": null,
+      "nameJa": "新生児淋菌性眼炎",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "gonorrhea",
+      "name": "Gonorrhea",
+      "sub": null,
+      "nameJa": "淋病",
+      "aliases": [
+        "りんびょう"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "granuloma-inguinale-donovanosis",
+      "name": "Granuloma inguinale (Donovanosis)",
+      "sub": null,
+      "nameJa": "鼠径肉芽腫",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "guillain-barr-syndrome",
+      "name": "Guillain-Barré syndrome",
+      "sub": null,
+      "nameJa": "ギラン・バレー症候群",
+      "aliases": [
+        "GBS",
+        "ギランバレー"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not an infectious condition.",
+      "commentsJa": "感染症ではない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hantavirus-pulmonary-syndrome",
+      "name": "Hantavirus pulmonary syndrome",
+      "sub": null,
+      "nameJa": "ハンタウイルス肺症候群",
+      "aliases": [
+        "ハンタ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "helicobacter-pylori",
+      "name": "Helicobacter pylori",
+      "sub": null,
+      "nameJa": "ヘリコバクター・ピロリ",
+      "aliases": [
+        "ピロリ",
+        "H. pylori"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hepatitis-viral-type-a",
+      "name": "Hepatitis, viral",
+      "sub": "Type A",
+      "nameJa": "ウイルス性肝炎（A型）",
+      "aliases": [
+        "HAV",
+        "A型肝炎"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Provide hepatitis A vaccine postexposure as recommended.",
+      "commentsJa": "推奨に従い曝露後にA型肝炎ワクチン。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hepatitis-viral-type-a-diapered-incontinent",
+      "name": "Hepatitis, viral",
+      "sub": "Type A — diapered/incontinent",
+      "nameJa": "ウイルス性肝炎（A型・おむつ／失禁）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "See comments",
+      "durationJa": "年齢により異なる",
+      "comments": "Contact Precautions: infants/children <3y for duration of hospitalization; 3-14y for 2 weeks after onset; >14y for 1 week after onset.",
+      "commentsJa": "3歳未満は入院中、3-14歳は発症後2週、14歳超は発症後1週。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hepatitis-viral-type-b-hbsag-positive",
+      "name": "Hepatitis, viral",
+      "sub": "Type B — HBsAg positive",
+      "nameJa": "ウイルス性肝炎（B型・HBsAg陽性）",
+      "aliases": [
+        "HBV",
+        "B型肝炎",
+        "HBsAg"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Acute or chronic. See specific recommendations for hemodialysis centers.",
+      "commentsJa": "急性・慢性。血液透析施設は個別推奨参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hepatitis-viral-type-c-and-non-a-non-b",
+      "name": "Hepatitis, viral",
+      "sub": "Type C and non-A non-B",
+      "nameJa": "ウイルス性肝炎（C型ほか）",
+      "aliases": [
+        "HCV",
+        "C型肝炎"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "See specific recommendations for hemodialysis centers.",
+      "commentsJa": "血液透析施設は個別推奨参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hepatitis-viral-type-d",
+      "name": "Hepatitis, viral",
+      "sub": "Type D",
+      "nameJa": "ウイルス性肝炎（D型）",
+      "aliases": [
+        "HDV",
+        "D型肝炎"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Seen only with hepatitis B.",
+      "commentsJa": "B型肝炎に併発する場合のみ。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hepatitis-viral-type-e",
+      "name": "Hepatitis, viral",
+      "sub": "Type E",
+      "nameJa": "ウイルス性肝炎（E型）",
+      "aliases": [
+        "HEV",
+        "E型肝炎"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions for diapered/incontinent individuals for duration of illness.",
+      "commentsJa": "おむつ・失禁者は罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "hepatitis-viral-type-g",
+      "name": "Hepatitis, viral",
+      "sub": "Type G",
+      "nameJa": "ウイルス性肝炎（G型）",
+      "aliases": [
+        "HGV"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "herpes-simplex-encephalitis",
+      "name": "Herpes simplex",
+      "sub": "Encephalitis",
+      "nameJa": "単純ヘルペス（脳炎）",
+      "aliases": [
+        "HSV",
+        "ヘルペス"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "herpes-simplex-mucocutaneous-disseminated-or-primary-severe",
+      "name": "Herpes simplex",
+      "sub": "Mucocutaneous, disseminated or primary, severe",
+      "nameJa": "単純ヘルペス（粘膜皮膚・播種／重症初発）",
+      "aliases": [
+        "HSV"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until lesions dry and crusted",
+      "durationJa": "病変が乾燥・被殻化するまで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "herpes-simplex-mucocutaneous-recurrent",
+      "name": "Herpes simplex",
+      "sub": "Mucocutaneous, recurrent",
+      "nameJa": "単純ヘルペス（粘膜皮膚・再発）",
+      "aliases": [
+        "HSV"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Skin, oral, genital.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "herpes-simplex-neonatal",
+      "name": "Herpes simplex",
+      "sub": "Neonatal",
+      "nameJa": "単純ヘルペス（新生児）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until lesions dry and crusted",
+      "durationJa": "病変が乾燥・被殻化するまで",
+      "comments": "Also for asymptomatic exposed infants delivered vaginally/C-section if mother has active infection and membranes ruptured >4-6h, until surface cultures at 24-36h are negative after 48h incubation.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "herpes-zoster-shingles-disseminated-or-localized-in-immunocompromised",
+      "name": "Herpes zoster (shingles)",
+      "sub": "Disseminated, or localized in immunocompromised",
+      "nameJa": "帯状疱疹（播種性／免疫不全の局所）",
+      "aliases": [
+        "shingles",
+        "帯状疱疹",
+        "たいじょうほうしん"
+      ],
+      "precautions": [
+        "Airborne",
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Susceptible HCWs should not enter room if immune caregivers available; localized disease in immunocompromised until disseminated infection ruled out.",
+      "commentsJa": "免疫のある医療者がいれば感受性者は入室しない。免疫不全の局所例は播種を除外するまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "herpes-zoster-shingles-localized-intact-immune-system",
+      "name": "Herpes zoster (shingles)",
+      "sub": "Localized, intact immune system",
+      "nameJa": "帯状疱疹（局所・免疫正常）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "Until lesions dry and crusted",
+      "durationJa": "病変が乾燥・被殻化するまで",
+      "comments": "Susceptible HCWs should not provide direct care when other immune caregivers are available; lesions can be contained/covered.",
+      "commentsJa": "病変を覆える場合。感受性の医療者は免疫のある者がいれば直接ケアを避ける。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "histoplasmosis",
+      "name": "Histoplasmosis",
+      "sub": null,
+      "nameJa": "ヒストプラズマ症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "human-immunodeficiency-virus-hiv",
+      "name": "Human immunodeficiency virus (HIV)",
+      "sub": null,
+      "nameJa": "ヒト免疫不全ウイルス（HIV）",
+      "aliases": [
+        "HIV",
+        "AIDS",
+        "エイズ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Postexposure chemoprophylaxis for some blood exposures.",
+      "commentsJa": "一部の血液曝露で曝露後化学予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "human-metapneumovirus",
+      "name": "Human metapneumovirus",
+      "sub": null,
+      "nameJa": "ヒトメタニューモウイルス",
+      "aliases": [
+        "hMPV",
+        "メタニューモ"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Assumed Contact transmission as for RSV. Wear masks per Standard Precautions.",
+      "commentsJa": "RSV同様に接触感染と想定。標準予防に従いマスク。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "impetigo",
+      "name": "Impetigo",
+      "sub": null,
+      "nameJa": "伝染性膿痂疹（とびひ）",
+      "aliases": [
+        "とびひ",
+        "のうかしん"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "infectious-mononucleosis",
+      "name": "Infectious mononucleosis",
+      "sub": null,
+      "nameJa": "伝染性単核症",
+      "aliases": [
+        "単核症"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "influenza-human-seasonal",
+      "name": "Influenza",
+      "sub": "Human (seasonal)",
+      "nameJa": "インフルエンザ（季節性）",
+      "aliases": [
+        "flu",
+        "インフル"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "See current CDC Prevention Strategies for Seasonal Influenza in Healthcare Settings.",
+      "commentsJa": "最新のCDC季節性インフルエンザ院内対策を参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "influenza-avian-h5n1-h7-h9",
+      "name": "Influenza",
+      "sub": "Avian (H5N1, H7, H9)",
+      "nameJa": "インフルエンザ（鳥・H5N1等）",
+      "aliases": [
+        "H5N1",
+        "鳥インフル"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "See current CDC interim guidance for novel influenza A viruses associated with severe disease.",
+      "commentsJa": "重症化する新型インフルA暫定指針を参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "influenza-pandemic",
+      "name": "Influenza",
+      "sub": "Pandemic",
+      "nameJa": "インフルエンザ（パンデミック）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Also a human influenza virus. See current CDC interim guidance.",
+      "commentsJa": "最新のCDC暫定指針を参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "kawasaki-syndrome",
+      "name": "Kawasaki syndrome",
+      "sub": null,
+      "nameJa": "川崎病",
+      "aliases": [
+        "かわさきびょう"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not an infectious condition.",
+      "commentsJa": "感染症ではない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "lassa-fever",
+      "name": "Lassa fever",
+      "sub": null,
+      "nameJa": "ラッサ熱",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Viral Hemorrhagic Fevers"
+    },
+    {
+      "id": "legionnaires-disease",
+      "name": "Legionnaires’ disease",
+      "sub": null,
+      "nameJa": "レジオネラ症",
+      "aliases": [
+        "legionella",
+        "レジオネラ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "leprosy",
+      "name": "Leprosy",
+      "sub": null,
+      "nameJa": "ハンセン病（らい）",
+      "aliases": [
+        "ハンセン病",
+        "Hansen"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "leptospirosis",
+      "name": "Leptospirosis",
+      "sub": null,
+      "nameJa": "レプトスピラ症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "lice-head-pediculosis",
+      "name": "Lice",
+      "sub": "Head (pediculosis)",
+      "nameJa": "アタマジラミ症",
+      "aliases": [
+        "pediculosis",
+        "しらみ",
+        "アタマジラミ"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "lice-body",
+      "name": "Lice",
+      "sub": "Body",
+      "nameJa": "コロモジラミ症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Transmitted person-to-person through infested clothing. Wear gown and gloves when removing clothing.",
+      "commentsJa": "汚染衣類を介して感染。脱衣時はガウン・手袋。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "lice-pubic",
+      "name": "Lice",
+      "sub": "Pubic",
+      "nameJa": "ケジラミ症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Transmitted through sexual contact.",
+      "commentsJa": "性的接触で感染。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "listeriosis",
+      "name": "Listeriosis",
+      "sub": null,
+      "nameJa": "リステリア症",
+      "aliases": [
+        "リステリア"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Person-to-person transmission rare; cross-transmission in neonatal settings reported.",
+      "commentsJa": "ヒト-ヒト感染はまれ。新生児施設での交差感染報告あり。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "lyme-disease",
+      "name": "Lyme disease",
+      "sub": null,
+      "nameJa": "ライム病",
+      "aliases": [
+        "ライム"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "lymphocytic-choriomeningitis",
+      "name": "Lymphocytic choriomeningitis",
+      "sub": null,
+      "nameJa": "リンパ球性脈絡髄膜炎",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "lymphogranuloma-venereum",
+      "name": "Lymphogranuloma venereum",
+      "sub": null,
+      "nameJa": "鼠径リンパ肉芽腫",
+      "aliases": [
+        "LGV"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "malaria",
+      "name": "Malaria",
+      "sub": null,
+      "nameJa": "マラリア",
+      "aliases": [
+        "まらりあ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted person to person except through transfusion rarely and failure to follow Standard Precautions. Install screens; use DEET repellents.",
+      "commentsJa": "輸血等のまれな例外を除きヒト-ヒト感染しない。網戸・DEET忌避剤。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "marburg-virus-disease",
+      "name": "Marburg virus disease",
+      "sub": null,
+      "nameJa": "マールブルグ病",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Viral Hemorrhagic Fevers"
+    },
+    {
+      "id": "measles-rubeola",
+      "name": "Measles (rubeola)",
+      "sub": null,
+      "nameJa": "麻疹（はしか）",
+      "aliases": [
+        "measles",
+        "はしか",
+        "ましん",
+        "rubeola"
+      ],
+      "precautions": [
+        "Airborne",
+        "Standard"
+      ],
+      "duration": "4 days after onset of rash (duration of illness if immunocompromised)",
+      "durationJa": "発疹出現後4日（免疫抑制者は罹病期間）",
+      "comments": "Susceptible HCP should not enter room if immune providers available; regardless of presumptive immunity, HCP should use at least a fit-tested N95 respirator on entry. Postexposure vaccine within 72h or immune globulin within 6 days. Place exposed susceptibles on Airborne Precautions.",
+      "commentsJa": "免疫のある医療者がいれば感受性者は入室しない。免疫の推定有無に関わらず入室時にN95以上を着用。曝露後72時間以内にワクチン、6日以内に免疫グロブリン。",
+      "updated": "2019-07",
+      "seeAlso": null
+    },
+    {
+      "id": "melioidosis",
+      "name": "Melioidosis",
+      "sub": null,
+      "nameJa": "類鼻疽（メリオイドーシス）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "All forms. Not transmitted from person to person.",
+      "commentsJa": "全型。ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningitis-aseptic-nonbacterial-viral",
+      "name": "Meningitis",
+      "sub": "Aseptic (nonbacterial/viral)",
+      "nameJa": "髄膜炎（無菌性・ウイルス性）",
+      "aliases": [
+        "ずいまくえん"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact for infants and young children. See Enteroviral infections.",
+      "commentsJa": "乳幼児は接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningitis-bacterial-gram-negative-enteric-neonates",
+      "name": "Meningitis",
+      "sub": "Bacterial, gram-negative enteric (neonates)",
+      "nameJa": "髄膜炎（グラム陰性腸内細菌・新生児）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningitis-fungal",
+      "name": "Meningitis",
+      "sub": "Fungal",
+      "nameJa": "髄膜炎（真菌性）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningitis-haemophilus-influenzae-type-b",
+      "name": "Meningitis",
+      "sub": "Haemophilus influenzae type b",
+      "nameJa": "髄膜炎（Hib）",
+      "aliases": [
+        "Hib"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningitis-neisseria-meningitidis-meningococcal",
+      "name": "Meningitis",
+      "sub": "Neisseria meningitidis (meningococcal)",
+      "nameJa": "髄膜炎（髄膜炎菌）",
+      "aliases": [
+        "髄膜炎菌",
+        "meningococcal"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "See Meningococcal Disease.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningitis-streptococcus-pneumoniae",
+      "name": "Meningitis",
+      "sub": "Streptococcus pneumoniae",
+      "nameJa": "髄膜炎（肺炎球菌）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningitis-m-tuberculosis",
+      "name": "Meningitis",
+      "sub": "M. tuberculosis",
+      "nameJa": "髄膜炎（結核）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Concurrent active pulmonary disease or draining lesions may necessitate Contact and/or Airborne. For children, Airborne until active TB ruled out in visiting family.",
+      "commentsJa": "活動性肺結核や排膿病変の併発時は接触・空気予防を追加。小児は面会家族の活動性結核を除外するまで空気予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "meningococcal-disease",
+      "name": "Meningococcal disease",
+      "sub": null,
+      "nameJa": "髄膜炎菌感染症",
+      "aliases": [
+        "meningococcal",
+        "髄膜炎菌"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "Sepsis, pneumonia, meningitis. Postexposure chemoprophylaxis for household contacts and HCWs exposed to respiratory secretions; postexposure vaccine only to control outbreaks.",
+      "commentsJa": "敗血症・肺炎・髄膜炎。同居者や気道分泌物に曝露した医療者へ曝露後化学予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "molluscum-contagiosum",
+      "name": "Molluscum contagiosum",
+      "sub": null,
+      "nameJa": "伝染性軟属腫（水いぼ）",
+      "aliases": [
+        "水いぼ",
+        "みずいぼ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "monkeypox",
+      "name": "Monkeypox",
+      "sub": null,
+      "nameJa": "サル痘（Mpox）",
+      "aliases": [
+        "mpox",
+        "サル痘"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "See comments",
+      "durationJa": null,
+      "comments": "See CDC Monkeypox website for infection prevention and control.",
+      "commentsJa": "CDCのMpoxサイトを参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "mucormycosis",
+      "name": "Mucormycosis",
+      "sub": null,
+      "nameJa": "ムコール症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "multidrug-resistant-organisms-mdros",
+      "name": "Multidrug-resistant organisms (MDROs)",
+      "sub": null,
+      "nameJa": "多剤耐性菌（MDRO）",
+      "aliases": [
+        "MDRO",
+        "MRSA",
+        "VRE",
+        "ESBL",
+        "耐性菌",
+        "たいせいきん"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "See comments",
+      "durationJa": "個別判断",
+      "comments": "MRSA, VRE, VISA/VRSA, ESBLs, resistant S. pneumoniae. Contact Precautions in settings with ongoing transmission, increased risk, or wounds not contained by dressings. Contact state health department for new/emerging MDRO.",
+      "commentsJa": "伝播継続・高リスク環境・被覆材で覆えない創部では接触予防。新規MDROは保健当局に相談。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "mumps-infectious-parotitis",
+      "name": "Mumps (infectious parotitis)",
+      "sub": null,
+      "nameJa": "流行性耳下腺炎（おたふくかぜ）",
+      "aliases": [
+        "mumps",
+        "おたふく",
+        "ムンプス",
+        "じかせんえん"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 5 days after onset of swelling",
+      "durationJa": "耳下腺腫脹後5日まで",
+      "comments": "Isolation changed from 9 days to 5 days after onset of parotid swelling (HICPAC, 2017). Susceptible HCWs should not provide care if immune caregivers available.",
+      "commentsJa": "隔離は腫脹発症後9日→5日に変更（2017年）。免疫のある医療者がいれば感受性者はケアしない。",
+      "updated": "2017-10",
+      "seeAlso": null
+    },
+    {
+      "id": "mycobacteria-nontuberculosis-atypical",
+      "name": "Mycobacteria, nontuberculosis (atypical)",
+      "sub": null,
+      "nameJa": "非結核性抗酸菌症",
+      "aliases": [
+        "NTM",
+        "非結核性抗酸菌"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Pulmonary and wound forms Standard. Not transmitted person-to-person.",
+      "commentsJa": "肺・創ともに標準予防。ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "mycoplasma-pneumonia",
+      "name": "Mycoplasma pneumonia",
+      "sub": null,
+      "nameJa": "マイコプラズマ肺炎",
+      "aliases": [
+        "マイコプラズマ"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "necrotizing-enterocolitis",
+      "name": "Necrotizing enterocolitis",
+      "sub": null,
+      "nameJa": "壊死性腸炎",
+      "aliases": [
+        "NEC"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Contact Precautions when cases clustered temporally.",
+      "commentsJa": "時間的に集積する場合は接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "nipah-virus",
+      "name": "Nipah virus",
+      "sub": null,
+      "nameJa": "ニパウイルス",
+      "aliases": [
+        "ニパ"
+      ],
+      "precautions": [],
+      "duration": "See comments",
+      "durationJa": "個別判断",
+      "comments": "Patient Placement: AIIR. If suspect and clinically stable: gown, gloves, eye protection, N95® or higher. If suspect and unstable OR confirmed: use PPE per VHF guidance. Duration case-by-case with health authorities.",
+      "commentsJa": "陰圧個室(AIIR)。疑い＋安定：ガウン・手袋・眼保護・N95以上。疑い＋不安定または確定：VHFに準じたPPE。",
+      "updated": "2024-09",
+      "seeAlso": null
+    },
+    {
+      "id": "nocardiosis",
+      "name": "Nocardiosis",
+      "sub": null,
+      "nameJa": "ノカルジア症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Draining lesions or other presentations. Not transmitted person-to-person.",
+      "commentsJa": "排膿病変その他。ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "norovirus",
+      "name": "Norovirus",
+      "sub": null,
+      "nameJa": "ノロウイルス",
+      "aliases": [
+        "ノロ",
+        "noro"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis, Noroviruses"
+    },
+    {
+      "id": "orf",
+      "name": "Orf",
+      "sub": null,
+      "nameJa": "オルフ（伝染性膿疱性皮膚炎）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "parainfluenza-virus-infection",
+      "name": "Parainfluenza virus infection",
+      "sub": null,
+      "nameJa": "パラインフルエンザ感染症",
+      "aliases": [
+        "パラインフル"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Respiratory in infants and young children. Viral shedding may be prolonged in immunosuppressed patients; reliability of antigen testing to guide removal from Contact Precautions uncertain.",
+      "commentsJa": "免疫抑制者では排出が遷延しうる。抗原検査での解除判断は信頼性不確実。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "parvovirus-b19",
+      "name": "Parvovirus B19",
+      "sub": null,
+      "nameJa": "パルボウイルスB19（リンゴ病）",
+      "aliases": [
+        "りんご病",
+        "erythema infectiosum"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "See comments",
+      "durationJa": "状況により異なる",
+      "comments": "Maintain precautions for duration of hospitalization when chronic disease occurs in immunocompromised. For transient aplastic/red-cell crisis, maintain 7 days.",
+      "commentsJa": "免疫不全の慢性例は入院中維持。一過性赤芽球癆・無形成発作は7日間維持。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pediculosis-lice",
+      "name": "Pediculosis (lice)",
+      "sub": null,
+      "nameJa": "シラミ症（頭ジラミ）",
+      "aliases": [
+        "しらみ",
+        "lice"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pertussis-whooping-cough",
+      "name": "Pertussis (whooping cough)",
+      "sub": null,
+      "nameJa": "百日咳",
+      "aliases": [
+        "pertussis",
+        "ひゃくにちぜき",
+        "百日咳",
+        "whooping"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 5 days after effective antibiotics",
+      "durationJa": "有効な抗菌薬開始後5日まで",
+      "comments": "Single patient room preferred; cohorting an option. Postexposure chemoprophylaxis for household contacts and HCWs with prolonged exposure to respiratory secretions.",
+      "commentsJa": "個室が望ましい。同居者や長時間気道分泌物に曝露した医療者へ曝露後化学予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pinworm-infection-enterobiasis",
+      "name": "Pinworm infection (Enterobiasis)",
+      "sub": null,
+      "nameJa": "蟯虫症",
+      "aliases": [
+        "ぎょうちゅう",
+        "pinworm"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "plague-yersinia-pestis-bubonic",
+      "name": "Plague (Yersinia pestis)",
+      "sub": "Bubonic",
+      "nameJa": "ペスト（腺ペスト）",
+      "aliases": [
+        "ペスト",
+        "plague"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "plague-yersinia-pestis-pneumonic",
+      "name": "Plague (Yersinia pestis)",
+      "sub": "Pneumonic",
+      "nameJa": "ペスト（肺ペスト）",
+      "aliases": [
+        "肺ペスト"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 48h after effective antibiotics",
+      "durationJa": "有効な抗菌薬開始後48時間まで",
+      "comments": "Antimicrobial prophylaxis for exposed HCW.",
+      "commentsJa": "曝露した医療者に抗菌薬予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-adenovirus",
+      "name": "Pneumonia",
+      "sub": "Adenovirus",
+      "nameJa": "肺炎（アデノウイルス）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Outbreaks in pediatric and institutional settings reported. In immunocompromised hosts, extend Droplet and Contact due to prolonged shedding.",
+      "commentsJa": "免疫不全者では排出遷延のため飛沫・接触予防を延長。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-bacterial-not-listed-elsewhere",
+      "name": "Pneumonia",
+      "sub": "Bacterial not listed elsewhere",
+      "nameJa": "肺炎（他項目外の細菌性）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Including gram-negative bacterial.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-b-cepacia-cystic-fibrosis",
+      "name": "Pneumonia",
+      "sub": "B. cepacia (cystic fibrosis)",
+      "nameJa": "肺炎（B. cepacia・嚢胞性線維症）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Unknown",
+      "durationJa": "不明",
+      "comments": "Avoid exposure to other persons with CF; private room preferred. Criteria for discontinuation not established.",
+      "commentsJa": "他のCF患者との接触を避ける。個室が望ましい。解除基準は未確立。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-chlamydia",
+      "name": "Pneumonia",
+      "sub": "Chlamydia",
+      "nameJa": "肺炎（クラミジア）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-fungal",
+      "name": "Pneumonia",
+      "sub": "Fungal",
+      "nameJa": "肺炎（真菌性）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-haemophilus-influenzae-type-b-adults",
+      "name": "Pneumonia",
+      "sub": "Haemophilus influenzae type b (adults)",
+      "nameJa": "肺炎（Hib・成人）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-haemophilus-influenzae-type-b-infants-children",
+      "name": "Pneumonia",
+      "sub": "Haemophilus influenzae type b (infants/children)",
+      "nameJa": "肺炎（Hib・乳幼児）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-legionella-spp",
+      "name": "Pneumonia",
+      "sub": "Legionella spp.",
+      "nameJa": "肺炎（レジオネラ）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-meningococcal",
+      "name": "Pneumonia",
+      "sub": "Meningococcal",
+      "nameJa": "肺炎（髄膜炎菌）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "See Meningococcal Disease.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-mycoplasma-primary-atypical",
+      "name": "Pneumonia",
+      "sub": "Mycoplasma (primary atypical)",
+      "nameJa": "肺炎（マイコプラズマ・原発性異型）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-pneumococcal",
+      "name": "Pneumonia",
+      "sub": "Pneumococcal",
+      "nameJa": "肺炎（肺炎球菌）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Use Droplet Precautions if evidence of transmission within a unit or facility.",
+      "commentsJa": "施設内伝播の証拠があれば飛沫予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-pneumocystis-jiroveci",
+      "name": "Pneumonia",
+      "sub": "Pneumocystis jiroveci",
+      "nameJa": "肺炎（ニューモシスチス）",
+      "aliases": [
+        "PCP",
+        "PJP",
+        "ニューモシスチス"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Avoid placement in the same room with an immunocompromised patient.",
+      "commentsJa": "免疫不全患者と同室にしない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-staphylococcus-aureus",
+      "name": "Pneumonia",
+      "sub": "Staphylococcus aureus",
+      "nameJa": "肺炎（黄色ブドウ球菌）",
+      "aliases": [
+        "MRSA"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "For MRSA, see MDROs.",
+      "commentsJa": "MRSAはMDRO参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-streptococcus-group-a-adults",
+      "name": "Pneumonia",
+      "sub": "Streptococcus group A (adults)",
+      "nameJa": "肺炎（A群溶連菌・成人）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "Contact Precautions if skin lesions present.",
+      "commentsJa": "皮膚病変があれば接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-streptococcus-group-a-infants-children",
+      "name": "Pneumonia",
+      "sub": "Streptococcus group A (infants/children)",
+      "nameJa": "肺炎（A群溶連菌・乳幼児）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "Contact Precautions if skin lesions present.",
+      "commentsJa": "皮膚病変があれば接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pneumonia-viral-adults",
+      "name": "Pneumonia",
+      "sub": "Viral (adults)",
+      "nameJa": "肺炎（ウイルス性・成人）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "poliomyelitis",
+      "name": "Poliomyelitis",
+      "sub": null,
+      "nameJa": "ポリオ（急性灰白髄炎）",
+      "aliases": [
+        "polio",
+        "ポリオ"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pressure-ulcer-infected-major",
+      "name": "Pressure ulcer",
+      "sub": "Infected, major",
+      "nameJa": "褥瘡（感染・大）",
+      "aliases": [
+        "じょくそう",
+        "decubitus"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Until drainage stops or can be contained by dressing.",
+      "commentsJa": "排膿が止まる／被覆材で制御できるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "pressure-ulcer-infected-minor-or-limited",
+      "name": "Pressure ulcer",
+      "sub": "Infected, minor or limited",
+      "nameJa": "褥瘡（感染・軽微）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "If dressing covers and contains drainage.",
+      "commentsJa": "被覆材で排膿を覆い制御できる場合。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "psittacosis-ornithosis",
+      "name": "Psittacosis (ornithosis)",
+      "sub": null,
+      "nameJa": "オウム病",
+      "aliases": [
+        "オウム病"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "q-fever",
+      "name": "Q fever",
+      "sub": null,
+      "nameJa": "Q熱",
+      "aliases": [
+        "Qねつ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rabies",
+      "name": "Rabies",
+      "sub": null,
+      "nameJa": "狂犬病",
+      "aliases": [
+        "きょうけんびょう"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Person-to-person transmission rare; via corneal/tissue/organ transplants reported. If bitten or saliva contaminates a wound/mucous membrane, wash thoroughly and give postexposure prophylaxis.",
+      "commentsJa": "ヒト-ヒト感染はまれ。咬傷・唾液曝露時は洗浄し曝露後予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rat-bite-fever",
+      "name": "Rat-bite fever",
+      "sub": null,
+      "nameJa": "鼠咬症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "relapsing-fever",
+      "name": "Relapsing fever",
+      "sub": null,
+      "nameJa": "回帰熱",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "respiratory-infectious-disease-acute-adults",
+      "name": "Respiratory infectious disease, acute",
+      "sub": "Adults",
+      "nameJa": "急性呼吸器感染症（成人・他項目外）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "respiratory-infectious-disease-acute-infants-and-young-children",
+      "name": "Respiratory infectious disease, acute",
+      "sub": "Infants and young children",
+      "nameJa": "急性呼吸器感染症（乳幼児）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Also see syndromes/conditions in Table 2.",
+      "commentsJa": "Table 2の症候群も参照。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "respiratory-syncytial-virus-rsv",
+      "name": "Respiratory syncytial virus (RSV)",
+      "sub": null,
+      "nameJa": "RSウイルス感染症",
+      "aliases": [
+        "RSV",
+        "RSウイルス"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Infants, young children and immunocompromised adults. Wear mask per Standard Precautions. In immunocompromised, extend Contact due to prolonged shedding; reliability of antigen testing to guide removal uncertain.",
+      "commentsJa": "免疫不全者は排出遷延のため接触予防を延長。抗原検査での解除判断は信頼性不確実。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "reyes-syndrome",
+      "name": "Reye’s syndrome",
+      "sub": null,
+      "nameJa": "ライ症候群",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not an infectious condition.",
+      "commentsJa": "感染症ではない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rheumatic-fever",
+      "name": "Rheumatic fever",
+      "sub": null,
+      "nameJa": "リウマチ熱",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not an infectious condition.",
+      "commentsJa": "感染症ではない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rhinovirus",
+      "name": "Rhinovirus",
+      "sub": null,
+      "nameJa": "ライノウイルス",
+      "aliases": [
+        "ライノ",
+        "鼻かぜ"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Droplet most important route. Add Contact Precautions if copious moist secretions and close contact likely (e.g., young infants).",
+      "commentsJa": "飛沫が主経路。分泌物が多く濃厚接触が想定されれば接触予防を追加。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rickettsial-fevers-tickborne",
+      "name": "Rickettsial fevers, tickborne",
+      "sub": null,
+      "nameJa": "リケッチア熱（ダニ媒介）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Rocky Mountain spotted fever, tickborne typhus. Not transmitted person to person except through transfusion, rarely.",
+      "commentsJa": "輸血によるまれな例外を除きヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rickettsialpox",
+      "name": "Rickettsialpox",
+      "sub": null,
+      "nameJa": "リケッチア痘",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "ringworm-dermatophytosis",
+      "name": "Ringworm (dermatophytosis)",
+      "sub": null,
+      "nameJa": "白癬（皮膚糸状菌症）",
+      "aliases": [
+        "tinea",
+        "はくせん",
+        "みずむし"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Rarely, outbreaks in healthcare settings. Use Contact Precautions for outbreak.",
+      "commentsJa": "まれに院内流行。流行時は接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rocky-mountain-spotted-fever",
+      "name": "Rocky Mountain spotted fever",
+      "sub": null,
+      "nameJa": "ロッキー山紅斑熱",
+      "aliases": [
+        "RMSF"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted person to person except through transfusion, rarely.",
+      "commentsJa": "輸血によるまれな例外を除きヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "roseola-infantum",
+      "name": "Roseola infantum",
+      "sub": null,
+      "nameJa": "突発性発疹",
+      "aliases": [
+        "HHV-6",
+        "とっぱつせいほっしん"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Exanthem subitum; caused by HHV-6.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "rotavirus-infection",
+      "name": "Rotavirus infection",
+      "sub": null,
+      "nameJa": "ロタウイルス感染症",
+      "aliases": [
+        "ロタ"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "rubella-german-measles",
+      "name": "Rubella (German measles)",
+      "sub": null,
+      "nameJa": "風疹",
+      "aliases": [
+        "rubella",
+        "ふうしん",
+        "三日はしか"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 7 days after onset of rash",
+      "durationJa": "発疹出現後7日まで",
+      "comments": "Susceptible HCWs should not enter room if immune caregivers available. Non-immune pregnant women should not care for these patients. Vaccine within 3 days of exposure.",
+      "commentsJa": "免疫のある医療者がいれば感受性者は入室しない。非免疫の妊婦はケアしない。曝露後3日以内にワクチン。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "salmonellosis",
+      "name": "Salmonellosis",
+      "sub": null,
+      "nameJa": "サルモネラ症",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "scabies",
+      "name": "Scabies",
+      "sub": null,
+      "nameJa": "疥癬",
+      "aliases": [
+        "scabies",
+        "かいせん"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "scalded-skin-syndrome-staphylococcal",
+      "name": "Scalded skin syndrome, staphylococcal",
+      "sub": null,
+      "nameJa": "ブドウ球菌性熱傷様皮膚症候群（SSSS）",
+      "aliases": [
+        "SSSS"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "See Staphylococcal Disease, scalded skin syndrome.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "schistosomiasis-bilharziasis",
+      "name": "Schistosomiasis (bilharziasis)",
+      "sub": null,
+      "nameJa": "住血吸虫症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "severe-acute-respiratory-syndrome-sars",
+      "name": "Severe acute respiratory syndrome (SARS)",
+      "sub": null,
+      "nameJa": "重症急性呼吸器症候群（SARS）",
+      "aliases": [
+        "SARS",
+        "サーズ"
+      ],
+      "precautions": [
+        "Airborne",
+        "Droplet",
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness + 10 days after fever resolves",
+      "durationJa": "罹病期間＋解熱後10日（呼吸器症状の消失・改善まで）",
+      "comments": "Airborne preferred; Droplet if AIIR unavailable. N95 or higher; eye protection. Aerosol-generating procedures and \"supershedders\" highest risk. Vigilant environmental disinfection.",
+      "commentsJa": "空気予防が望ましい（AIIRなければ飛沫）。N95以上＋眼保護。エアロゾル発生手技と大量排出者が最高リスク。環境消毒を徹底。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "smallpox-variola",
+      "name": "Smallpox (variola)",
+      "sub": null,
+      "nameJa": "天然痘",
+      "aliases": [
+        "variola",
+        "てんねんとう",
+        "痘瘡"
+      ],
+      "precautions": [
+        "Airborne",
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Until all scabs have crusted and separated (3-4 weeks). Non-vaccinated HCWs should not provide care when immune HCWs available; N95 or higher; postexposure vaccine within 4 days protective.",
+      "commentsJa": "全ての痂皮が形成・脱落するまで（3-4週）。免疫HCWがいれば未接種者はケアしない。N95以上。曝露後4日以内のワクチンが有効。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "sporotrichosis",
+      "name": "Sporotrichosis",
+      "sub": null,
+      "nameJa": "スポロトリコーシス",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "staphylococcal-disease-s-aureus-skin-wound-burn-major",
+      "name": "Staphylococcal disease (S. aureus)",
+      "sub": "Skin/wound/burn, major",
+      "nameJa": "黄色ブドウ球菌感染症（皮膚・創・熱傷／大）",
+      "aliases": [
+        "MSSA",
+        "MRSA",
+        "ブドウ球菌"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Until drainage stops or can be contained by dressing.",
+      "commentsJa": "排膿が止まる／被覆材で制御できるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "staphylococcal-disease-s-aureus-skin-wound-burn-minor",
+      "name": "Staphylococcal disease (S. aureus)",
+      "sub": "Skin/wound/burn, minor",
+      "nameJa": "黄色ブドウ球菌感染症（皮膚・創・熱傷／軽微）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "If dressing covers and contains drainage adequately.",
+      "commentsJa": "被覆材で排膿を十分覆える場合。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "staphylococcal-disease-s-aureus-enterocolitis",
+      "name": "Staphylococcal disease (S. aureus)",
+      "sub": "Enterocolitis",
+      "nameJa": "黄色ブドウ球菌感染症（腸炎）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Use Contact Precautions for diapered or incontinent children for duration of illness.",
+      "commentsJa": "おむつ・失禁の小児は罹病期間中に接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "staphylococcal-disease-s-aureus-pneumonia",
+      "name": "Staphylococcal disease (S. aureus)",
+      "sub": "Pneumonia",
+      "nameJa": "黄色ブドウ球菌感染症（肺炎）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "staphylococcal-disease-s-aureus-scalded-skin-syndrome",
+      "name": "Staphylococcal disease (S. aureus)",
+      "sub": "Scalded skin syndrome",
+      "nameJa": "黄色ブドウ球菌感染症（SSSS）",
+      "aliases": [
+        "SSSS"
+      ],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Consider HCP as potential source of nursery/NICU outbreak.",
+      "commentsJa": "新生児室/NICU流行では医療者が感染源となりうる。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "staphylococcal-disease-s-aureus-toxic-shock-syndrome",
+      "name": "Staphylococcal disease (S. aureus)",
+      "sub": "Toxic shock syndrome",
+      "nameJa": "黄色ブドウ球菌感染症（TSS）",
+      "aliases": [
+        "TSS"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-a-skin-wound-burn-major",
+      "name": "Streptococcal disease (group A)",
+      "sub": "Skin/wound/burn, major",
+      "nameJa": "A群溶連菌感染症（皮膚・創・熱傷／大）",
+      "aliases": [
+        "GAS",
+        "溶連菌"
+      ],
+      "precautions": [
+        "Contact",
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "Until drainage stops or can be contained by dressing.",
+      "commentsJa": "排膿が止まる／被覆材で制御できるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-a-skin-wound-burn-minor",
+      "name": "Streptococcal disease (group A)",
+      "sub": "Skin/wound/burn, minor",
+      "nameJa": "A群溶連菌感染症（皮膚・創・熱傷／軽微）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "If dressing covers and contains drainage.",
+      "commentsJa": "被覆材で排膿を覆える場合。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-a-endometritis-puerperal-sepsis",
+      "name": "Streptococcal disease (group A)",
+      "sub": "Endometritis (puerperal sepsis)",
+      "nameJa": "A群溶連菌感染症（子宮内膜炎・産褥敗血症）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-a-pharyngitis-infants-children",
+      "name": "Streptococcal disease (group A)",
+      "sub": "Pharyngitis (infants/children)",
+      "nameJa": "A群溶連菌感染症（咽頭炎・乳幼児）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-a-pneumonia",
+      "name": "Streptococcal disease (group A)",
+      "sub": "Pneumonia",
+      "nameJa": "A群溶連菌感染症（肺炎）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-a-scarlet-fever-infants-children",
+      "name": "Streptococcal disease (group A)",
+      "sub": "Scarlet fever (infants/children)",
+      "nameJa": "A群溶連菌感染症（猩紅熱・乳幼児）",
+      "aliases": [
+        "scarlet",
+        "しょうこうねつ"
+      ],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-a-serious-invasive-disease",
+      "name": "Streptococcal disease (group A)",
+      "sub": "Serious invasive disease",
+      "nameJa": "A群溶連菌感染症（重症侵襲性）",
+      "aliases": [],
+      "precautions": [
+        "Droplet",
+        "Standard"
+      ],
+      "duration": "Until 24h after effective therapy",
+      "durationJa": "有効治療開始後24時間まで",
+      "comments": "Outbreaks of serious invasive disease reported. Contact Precautions for draining wound; follow antimicrobial prophylaxis recommendations.",
+      "commentsJa": "重症侵襲性のアウトブレイク報告。排膿創は接触予防、抗菌薬予防に従う。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-group-b-neonatal",
+      "name": "Streptococcal disease (group B), neonatal",
+      "sub": null,
+      "nameJa": "B群溶連菌感染症（新生児）",
+      "aliases": [
+        "GBS"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "streptococcal-disease-not-group-a-or-b",
+      "name": "Streptococcal disease (not group A or B)",
+      "sub": null,
+      "nameJa": "溶連菌感染症（A・B群以外）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Unless covered elsewhere.",
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "strongyloidiasis",
+      "name": "Strongyloidiasis",
+      "sub": null,
+      "nameJa": "糞線虫症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "syphilis-latent-seropositive-without-lesions",
+      "name": "Syphilis",
+      "sub": "Latent / seropositive without lesions",
+      "nameJa": "梅毒（潜伏・無病変血清陽性）",
+      "aliases": [
+        "syphilis",
+        "ばいどく"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "syphilis-skin-and-mucous-membrane-incl-congenital-primary-secondary",
+      "name": "Syphilis",
+      "sub": "Skin and mucous membrane (incl. congenital, primary, secondary)",
+      "nameJa": "梅毒（皮膚・粘膜、先天／1期／2期）",
+      "aliases": [
+        "ばいどく"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tapeworm-disease-hymenolepis-nana",
+      "name": "Tapeworm disease",
+      "sub": "Hymenolepis nana",
+      "nameJa": "条虫症（小形条虫）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tapeworm-disease-taenia-solium-pork",
+      "name": "Tapeworm disease",
+      "sub": "Taenia solium (pork)",
+      "nameJa": "条虫症（有鉤条虫）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tapeworm-disease-other",
+      "name": "Tapeworm disease",
+      "sub": "Other",
+      "nameJa": "条虫症（その他）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tetanus",
+      "name": "Tetanus",
+      "sub": null,
+      "nameJa": "破傷風",
+      "aliases": [
+        "はしょうふう"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tinea-ringworm",
+      "name": "Tinea (ringworm)",
+      "sub": null,
+      "nameJa": "白癬（みずむし・たむし）",
+      "aliases": [
+        "みずむし",
+        "はくせん"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Rare episodes of person-to-person transmission.",
+      "commentsJa": "ヒト-ヒト感染はまれ。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "toxoplasmosis",
+      "name": "Toxoplasmosis",
+      "sub": null,
+      "nameJa": "トキソプラズマ症",
+      "aliases": [
+        "トキソプラズマ"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Person-to-person transmission rare; vertical, organ and blood transfusion transmission rare.",
+      "commentsJa": "ヒト-ヒト感染はまれ（母子・移植・輸血）。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "toxic-shock-syndrome",
+      "name": "Toxic shock syndrome",
+      "sub": null,
+      "nameJa": "毒素性ショック症候群（TSS）",
+      "aliases": [
+        "TSS"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Droplet Precautions for first 24h of antibiotic therapy if Group A Streptococcus is a likely etiology.",
+      "commentsJa": "A群溶連菌が疑われる場合は抗菌薬開始後24時間飛沫予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "trachoma-acute",
+      "name": "Trachoma, acute",
+      "sub": null,
+      "nameJa": "トラコーマ（急性）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "trench-mouth-vincents-angina",
+      "name": "Trench mouth (Vincent’s angina)",
+      "sub": null,
+      "nameJa": "塹壕口内炎（ワンサンアンギナ）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "trichinosis",
+      "name": "Trichinosis",
+      "sub": null,
+      "nameJa": "旋毛虫症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "trichomoniasis",
+      "name": "Trichomoniasis",
+      "sub": null,
+      "nameJa": "トリコモナス症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "trichuriasis-whipworm",
+      "name": "Trichuriasis (whipworm)",
+      "sub": null,
+      "nameJa": "鞭虫症",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tuberculosis-m-tuberculosis-extrapulmonary-draining-lesion",
+      "name": "Tuberculosis (M. tuberculosis)",
+      "sub": "Extrapulmonary, draining lesion",
+      "nameJa": "結核（肺外・排膿病変）",
+      "aliases": [
+        "TB",
+        "けっかく",
+        "結核"
+      ],
+      "precautions": [
+        "Airborne",
+        "Contact",
+        "Standard"
+      ],
+      "duration": "See comments",
+      "durationJa": "臨床改善かつ排膿停止／培養3回陰性まで",
+      "comments": "Discontinue precautions only when improving clinically and drainage ceased or 3 consecutive negative cultures. Examine for active pulmonary TB.",
+      "commentsJa": "臨床改善し排膿停止、または連続3回培養陰性まで解除しない。活動性肺結核を検索。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tuberculosis-m-tuberculosis-extrapulmonary-no-draining-lesion-meningitis",
+      "name": "Tuberculosis (M. tuberculosis)",
+      "sub": "Extrapulmonary, no draining lesion / meningitis",
+      "nameJa": "結核（肺外・排膿なし／髄膜炎）",
+      "aliases": [
+        "TB",
+        "結核"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Examine for evidence of pulmonary TB. For infants/children, use Airborne until active pulmonary TB in visiting family ruled out.",
+      "commentsJa": "肺結核の有無を検索。小児は面会家族の活動性肺結核を除外するまで空気予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tuberculosis-m-tuberculosis-pulmonary-or-laryngeal-confirmed",
+      "name": "Tuberculosis (M. tuberculosis)",
+      "sub": "Pulmonary or laryngeal, confirmed",
+      "nameJa": "結核（肺・喉頭／確定）",
+      "aliases": [
+        "TB",
+        "結核",
+        "肺結核"
+      ],
+      "precautions": [
+        "Airborne",
+        "Standard"
+      ],
+      "duration": "See comments",
+      "durationJa": "有効治療・臨床改善・塗抹3回陰性まで",
+      "comments": "Discontinue only when on effective therapy, improving clinically, and 3 consecutive sputum smears negative for AFB collected on separate days.",
+      "commentsJa": "有効治療下で臨床改善し、別日に採取した喀痰塗抹が連続3回抗酸菌陰性になるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tuberculosis-m-tuberculosis-pulmonary-or-laryngeal-suspected",
+      "name": "Tuberculosis (M. tuberculosis)",
+      "sub": "Pulmonary or laryngeal, suspected",
+      "nameJa": "結核（肺・喉頭／疑い）",
+      "aliases": [
+        "TB",
+        "結核"
+      ],
+      "precautions": [
+        "Airborne",
+        "Standard"
+      ],
+      "duration": "See comments",
+      "durationJa": "感染性が無視できると判断されるまで",
+      "comments": "Discontinue only when infectious TB deemed negligible and either another diagnosis explains the syndrome or 3 sputum smears for AFB are negative (each 8-24h apart, ≥1 early morning).",
+      "commentsJa": "感染性TBが無視できると判断され、別診断が説明可能か塗抹3回陰性になるまで解除しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tuberculosis-m-tuberculosis-skin-test-positive-no-active-disease",
+      "name": "Tuberculosis (M. tuberculosis)",
+      "sub": "Skin-test positive, no active disease",
+      "nameJa": "結核（皮膚反応陽性・活動性なし）",
+      "aliases": [
+        "TB",
+        "結核"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tularemia-draining-lesion",
+      "name": "Tularemia",
+      "sub": "Draining lesion",
+      "nameJa": "野兎病（排膿病変）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "tularemia-pulmonary",
+      "name": "Tularemia",
+      "sub": "Pulmonary",
+      "nameJa": "野兎病（肺）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "typhoid-fever",
+      "name": "Typhoid fever",
+      "sub": null,
+      "nameJa": "腸チフス",
+      "aliases": [
+        "ちょうチフス",
+        "typhoid"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "typhus-rickettsia-prowazekii-epidemic-louse-borne",
+      "name": "Typhus",
+      "sub": "Rickettsia prowazekii (epidemic/louse-borne)",
+      "nameJa": "チフス（発疹チフス・シラミ媒介）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Transmitted person to person through close personal or clothing contact.",
+      "commentsJa": "濃厚接触や衣類を介してヒト-ヒト感染する。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "typhus-rickettsia-typhi",
+      "name": "Typhus",
+      "sub": "Rickettsia typhi",
+      "nameJa": "チフス（発疹熱）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted from person to person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "urinary-tract-infection",
+      "name": "Urinary tract infection",
+      "sub": null,
+      "nameJa": "尿路感染症",
+      "aliases": [
+        "UTI",
+        "尿路感染"
+      ],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Including pyelonephritis, with or without catheter.",
+      "commentsJa": "腎盂腎炎を含む。カテーテル有無問わず。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "vaccinia",
+      "name": "Vaccinia",
+      "sub": null,
+      "nameJa": "種痘（ワクシニア）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Vaccination site care: semi-permeable dressing over gauze until scab separates (~3-5 days); gloves and hand hygiene for dressing change.",
+      "commentsJa": "接種部位ケア：痂皮脱落まで半透過性被覆（約3-5日）。被覆交換時は手袋・手指衛生。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "vaccinia-adverse-events-eczema-vaccinatum-fetal-generalized-progressive",
+      "name": "Vaccinia (adverse events)",
+      "sub": "Eczema vaccinatum / fetal / generalized / progressive",
+      "nameJa": "ワクシニア有害事象（湿疹性・胎児・全身性・進行性）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until lesions dry and crusted, scabs separated",
+      "durationJa": "病変が乾燥・被殻化し痂皮が脱落するまで",
+      "comments": "For contact with virus-containing lesions and exudative material.",
+      "commentsJa": "ウイルス含有病変・滲出物との接触に対して。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "vaccinia-adverse-events-blepharitis-or-conjunctivitis",
+      "name": "Vaccinia (adverse events)",
+      "sub": "Blepharitis or conjunctivitis",
+      "nameJa": "ワクシニア有害事象（眼瞼炎・結膜炎）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Use Contact Precautions if there is copious drainage.",
+      "commentsJa": "大量排膿があれば接触予防。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "vaccinia-adverse-events-secondary-bacterial-infection",
+      "name": "Vaccinia (adverse events)",
+      "sub": "Secondary bacterial infection",
+      "nameJa": "ワクシニア有害事象（二次細菌感染）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Follow organism-specific (strep, staph most frequent) recommendations and consider magnitude of drainage.",
+      "commentsJa": "起因菌別（溶連菌・ブドウ球菌が多い）の推奨に従い、排膿量を考慮。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "varicella-zoster",
+      "name": "Varicella Zoster",
+      "sub": null,
+      "nameJa": "水痘（水ぼうそう）",
+      "aliases": [
+        "varicella",
+        "chickenpox",
+        "みずぼうそう",
+        "すいとう",
+        "VZV"
+      ],
+      "precautions": [
+        "Airborne",
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Until lesions dry and crusted",
+      "durationJa": "全病変が乾燥・被殻化するまで",
+      "comments": "Susceptible HCWs should not enter room if immune caregivers available. In immunocompromised host with varicella pneumonia, prolong precautions for duration of illness. Postexposure vaccine within 120h; VZIG within 10 days if vaccine contraindicated. Exclude exposed susceptible HCWs day 8-21 after exposure.",
+      "commentsJa": "免疫のある医療者がいれば感受性者は入室しない。曝露後120時間以内にワクチン、ワクチン禁忌ならVZIGを10日以内。",
+      "updated": "2019-04",
+      "seeAlso": null
+    },
+    {
+      "id": "variola",
+      "name": "Variola",
+      "sub": null,
+      "nameJa": "痘瘡（天然痘）",
+      "aliases": [
+        "てんねんとう"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Smallpox"
+    },
+    {
+      "id": "vincents-angina-trench-mouth",
+      "name": "Vincent’s angina (trench mouth)",
+      "sub": null,
+      "nameJa": "ワンサンアンギナ（塹壕口内炎）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "viral-hemorrhagic-fevers-vhf",
+      "name": "Viral hemorrhagic fevers (VHF)",
+      "sub": null,
+      "nameJa": "ウイルス性出血熱（VHF）",
+      "aliases": [
+        "VHF",
+        "エボラ",
+        "ラッサ",
+        "マールブルグ",
+        "出血熱"
+      ],
+      "precautions": [],
+      "duration": "See comments",
+      "durationJa": "個別判断",
+      "comments": "Due to Lassa, Marburg, Ebola, Crimean-Congo, and South American HF viruses (Junin, Machupo, Chapare, Guanarito, Sabia). Follow current CDC PPE guidance for clinically stable vs. confirmed/unstable patients. Duration case-by-case with health authorities.",
+      "commentsJa": "ラッサ・マールブルグ・エボラ・クリミアコンゴ・南米出血熱。臨床安定と確定/不安定でCDCのPPE指針が異なる。期間は保健当局と個別協議。",
+      "updated": "2024-09",
+      "seeAlso": null
+    },
+    {
+      "id": "viral-respiratory-diseases-not-covered-elsewhere-adults",
+      "name": "Viral respiratory diseases (not covered elsewhere)",
+      "sub": "Adults",
+      "nameJa": "ウイルス性呼吸器疾患（成人・他項目外）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "whooping-cough",
+      "name": "Whooping cough",
+      "sub": null,
+      "nameJa": "百日咳",
+      "aliases": [
+        "ひゃくにちぜき"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Pertussis"
+    },
+    {
+      "id": "wound-infections-major",
+      "name": "Wound infections",
+      "sub": "Major",
+      "nameJa": "創感染（大）",
+      "aliases": [],
+      "precautions": [
+        "Contact",
+        "Standard"
+      ],
+      "duration": "Duration of illness",
+      "durationJa": "罹病期間",
+      "comments": "Until drainage stops or can be contained by dressing.",
+      "commentsJa": "排膿が止まる／被覆材で制御できるまで。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "wound-infections-minor-or-limited",
+      "name": "Wound infections",
+      "sub": "Minor or limited",
+      "nameJa": "創感染（軽微）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "If dressing covers and contains drainage.",
+      "commentsJa": "被覆材で排膿を覆える場合。",
+      "updated": null,
+      "seeAlso": null
+    },
+    {
+      "id": "yersinia-enterocolitica-gastroenteritis",
+      "name": "Yersinia enterocolitica gastroenteritis",
+      "sub": null,
+      "nameJa": "エルシニア腸炎",
+      "aliases": [],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Gastroenteritis"
+    },
+    {
+      "id": "zoster-varicella-zoster",
+      "name": "Zoster (varicella-zoster)",
+      "sub": null,
+      "nameJa": "帯状疱疹",
+      "aliases": [
+        "たいじょうほうしん",
+        "shingles"
+      ],
+      "precautions": [],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": null,
+      "commentsJa": null,
+      "updated": null,
+      "seeAlso": "Herpes Zoster"
+    },
+    {
+      "id": "zygomycosis-mucormycosis",
+      "name": "Zygomycosis (mucormycosis)",
+      "sub": null,
+      "nameJa": "ムコール症（接合菌症）",
+      "aliases": [],
+      "precautions": [
+        "Standard"
+      ],
+      "duration": "n/a",
+      "durationJa": null,
+      "comments": "Not transmitted person-to-person.",
+      "commentsJa": "ヒト-ヒト感染しない。",
+      "updated": null,
+      "seeAlso": null
+    }
+  ]
+}
